@@ -1,3 +1,7 @@
 #    Ejercicio Práctico de Terminal / Git
 
-modificado
+Modificado
+
+- ONE
+- TWO
+- THREE
